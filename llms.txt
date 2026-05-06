@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/beyn-el-khata-w-el-hob/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Beyn El Khata W El Hob](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
